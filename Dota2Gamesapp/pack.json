@@ -1,0 +1,27 @@
+{
+    "playerName": "PlayerName",
+    "playerTag": "#PLAYER_TAG",
+    "trophies": 5000,
+    "highestTrophies": 5500,
+    "expLevel": 100,
+    "brawlers": [
+      {
+        "name": "Shelly",
+        "powerLevel": 10,
+        "rank": 25,
+        "trophies": 600
+      },
+      {
+        "name": "Nita",
+        "powerLevel": 9,
+        "rank": 20,
+        "trophies": 550
+      }
+    ],
+    "club": {
+      "name": "ClubName",
+      "tag": "#CLUB_TAG"
+    }
+  }
+
+  
